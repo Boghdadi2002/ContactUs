@@ -5,6 +5,7 @@
   font-family: sans-serif;
 }
 
+
 nav {
   display: flex;
   justify-content: space-between;
@@ -501,6 +502,10 @@ nav {
   display: flex;
   align-items: center;
 }
+
+
+
+
 @media  only screen and (max-width:1080px){
 
   .middle{
@@ -514,6 +519,8 @@ nav {
   }
   
 }
+
+
 @media  only screen and (max-width:882px){
 
   .middle{
@@ -526,3 +533,9 @@ nav {
       display: none;
   }
 }
+
+
+
+
+
+
